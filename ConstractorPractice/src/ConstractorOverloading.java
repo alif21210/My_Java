@@ -1,5 +1,3 @@
-package Abcd;
-
 public class ConstractorOverloading {
     String name, gender;
     int phone;

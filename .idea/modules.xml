@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConstractorPractice/ConstractorPractice.iml" filepath="$PROJECT_DIR$/ConstractorPractice/ConstractorPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_Theory/OOP_Theory.iml" filepath="$PROJECT_DIR$/OOP_Theory/OOP_Theory.iml" />
     </modules>

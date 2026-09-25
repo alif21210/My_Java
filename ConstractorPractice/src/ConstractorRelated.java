@@ -1,5 +1,3 @@
-package Abcd;
-
 public class ConstractorRelated {
     static void main() {
         ConstractorOverloading teacher1 = new ConstractorOverloading();
