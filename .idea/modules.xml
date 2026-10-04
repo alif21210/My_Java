@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/ConstractorPractice/ConstractorPractice.iml" filepath="$PROJECT_DIR$/ConstractorPractice/ConstractorPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_Theory/OOP_Theory.iml" filepath="$PROJECT_DIR$/OOP_Theory/OOP_Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReturnType/ReturnType.iml" filepath="$PROJECT_DIR$/ReturnType/ReturnType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticVariable/StaticMethod/StaticMethod.iml" filepath="$PROJECT_DIR$/StaticVariable/StaticMethod/StaticMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticVariable/StaticVariable.iml" filepath="$PROJECT_DIR$/StaticVariable/StaticVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringPack/StringPack.iml" filepath="$PROJECT_DIR$/StringPack/StringPack.iml" />
     </modules>
   </component>
 </project>
