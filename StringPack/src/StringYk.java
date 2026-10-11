@@ -45,7 +45,50 @@ public class StringYk {
         String lowercase = fullname.toLowerCase();
         System.out.println("Lowercase :"+lowercase);
 
-      //  boolean check = firstname.startsWith("A"); first name A diye shuru hoiche kina check kore
+      // boolean check = firstname.startsWith("A"); first name A diye shuru hoiche kina check kore
         // boolean check firstname.endsWith("m");    last name m diye shuru hoiche kina check kore
+
+        String country = "   I love Bangladesh  ";
+        String c1 = country.trim(); //samne and pichoner space remove kore
+        System.out.println(country);
+        System.out.println(c1);
+
+        String c2 = "Hello bhai kemon achen";
+        String c3 = c2.replace('i','j');
+        System.out.println(c3);
+
+        String c4 = "Hello bhai kemon achen";
+        String[] c5 = c4.split(" ");
+
+        for(String x : c5)
+        {
+            System.out.println(x);
+        }
+
+        StringBuffer sb = new StringBuffer("Anisul");
+        sb.append(" Islam ");
+        sb.append(25);
+        System.out.println(sb);
+
+
+        StringBuffer sb1 = new StringBuffer("madam");
+        String p1 = sb1.reverse().toString();
+        if(p1.equals(sb1.toString())){
+            System.out.println("Equal");
+        }
+        else{
+            System.out.println("Not Equal");
+        }
+
+
+        StringBuilder smg = new StringBuilder("ALif");
+        System.out.println("smg = "+smg);
+        smg.append(" You know ");
+        smg.append(8.76);
+        System.out.println(smg);
+        smg.delete(2,8);
+        System.out.println("Afer delete: "+smg);
+
+
     }
 }

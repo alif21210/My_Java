@@ -1,4 +1,4 @@
-public class Test {
+public class TestTeacher {
     static void main() {
         Teacher teacher1 = new Teacher();
 
