@@ -1,6 +1,6 @@
-public class TestOverload {
+public class TestMethodOverload {
     static void main() {
-        Overload atr = new Overload();
+        MethodOverload atr = new MethodOverload();
 
         atr.add(2,3);
         atr.add(1,2,3);

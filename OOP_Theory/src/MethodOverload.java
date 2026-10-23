@@ -1,4 +1,4 @@
-public class Overload {
+public class MethodOverload {
 
     void add(int a, int b)
     {
